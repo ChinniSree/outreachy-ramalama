@@ -208,7 +208,7 @@ I switched to tinyllama which is lighter and worked fine.
  
 When I tried the OCI transport with Mistral, the registry path didn't exist. After research I found the correct path but skipped it due to storage constraints.
  
-![OCI error](images/oci_error.png)
+![OCI error](images/OCI_error.png)
  
 **3. Storage issues**
  
