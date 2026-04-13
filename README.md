@@ -1,5 +1,22 @@
 # Getting Started with RamaLama — Outreachy 2026 Task
 
+## Table of Contents
+ 
+- [What is RamaLama?](#what-is-ramalama)
+- [My Setup](#my-setup)
+- [Step 1 — Installation](#step-1--installation)
+- [Step 2 — Checking the Version](#step-2--checking-the-version)
+- [Step 3 — Pulling My First Model (ollama transport)](#step-3--pulling-my-first-model-ollama-transport)
+- [Step 4 — Running the Model](#step-4--running-the-model)
+- [Step 5 — Second Model with a Different Transport (HuggingFace)](#step-5--second-model-with-a-different-transport-huggingface)
+- [Extra Commands I Explored](#extra-commands-i-explored)
+- [Comparing the Two Models](#comparing-the-two-models)
+- [Errors & Issues I Encountered](#errors--issues-i-encountered)
+- [Does RamaLama Make AI Boring? My Opinion](#does-ramalama-make-ai-boring-my-opinion)
+- [Key Takeaway](#key-takeaway)
+- [References](#references)
+ 
+---
 ## What is RamaLama?
 
 Before RamaLama, running an AI model locally meant hours of setup   drivers, environments, configs. RamaLama changes that completely. It wraps everything into containers so you can focus on using the model, not setting it up.
